@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Go to home",
+      "day": "Wednesday",
+      "reminder": true
+    },
+    {
+      "text": "Fetch tasks",
+      "day": "Today",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "testing the app",
+      "day": "loader",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "dd",
+      "day": "dd",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
